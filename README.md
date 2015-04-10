@@ -10,7 +10,10 @@
 ## Data publishers
 
 *   Publish data through a guided process or import via API/harvesting from other catalogs
-*   Customize your own metadata fields, themes and branding*   Store data within DKAN or on external (e.g. departmental) sites*   Manage access control, version history with rollback, RDF support, user analytics*   Supported enterprise-quality commercial support and FISMA-certified cloud hosting options available
+*   Customize your own metadata fields, themes and branding
+*   Store data within DKAN or on external (e.g. departmental) sites
+*   Manage access control, version history with rollback, RDF support, user analytics 
+*   Supported enterprise-quality commercial support and FISMA-certified cloud hosting options available
 
 ## Data users
 
